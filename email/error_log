@@ -1,0 +1,1 @@
+[13-Jan-2020 11:20:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home3/mburton9/public_html/beta-baycomm/email/contact-form.php on line 24
